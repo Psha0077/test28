@@ -1,6 +1,10 @@
 {
     "source_window_id": "",
     "Source": "Source",
+<<<<<<< HEAD
     "cursorPosition": "10,11",
+=======
+    "cursorPosition": "0,6",
+>>>>>>> branch2
     "scrollLine": "0"
 }

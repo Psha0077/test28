@@ -3,7 +3,7 @@
     "path": "C:/Users/Pranav/Desktop/test28/example.Rmd",
     "project_path": "example.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "472872521",
     "contents": "",
     "dirty": false,
     "created": 1684685815478.0,
@@ -12,6 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
+<<<<<<< HEAD
         "cursorPosition": "10,11",
         "scrollLine": "0"
     },
@@ -21,6 +22,17 @@
     "collab_server": "",
     "source_window": "",
     "last_content_update": 1684686136488,
+=======
+        "cursorPosition": "0,6",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684686012,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684686012988,
+>>>>>>> branch2
     "read_only": false,
     "read_only_alternatives": []
 }
